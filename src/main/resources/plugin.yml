@@ -1,0 +1,12 @@
+name: Troniacraft
+version: ${project.version}
+main: de.schornyy.Troniacraft
+api-version: 1.13
+authors: [Schornyy]
+
+commands:
+  rasse:
+  npc:
+  job:
+  schmied:
+  item:
